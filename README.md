@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built to showcase projects and skills.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Framework:** React + TypeScript
 - **Build Tool:** Vite
@@ -12,15 +12,15 @@ A modern, responsive personal portfolio website built to showcase projects and s
 - **Routing:** React Router DOM
 - **Utilities:** DnD Kit (Drag and Drop)
 
-## ✨ Features
+## Features
 
-- **Dark Mode Support 🌙**: Toggle between light and dark themes.
-- **Responsive Design 📱**: Fully optimized for all device sizes.
+- **Dark Mode Support**: Toggle between light and dark themes.
+- **Responsive Design**: Fully optimized for all device sizes.
 - **Interactive UI**: Smooth animations and transitions using Framer Motion.
 - **Project Showcase**: Dedicated section to display projects.
 - **Contact Form**: Easy way to get in touch.
 
-## 🛠️ Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally.
 
@@ -51,4 +51,4 @@ Start the development server:
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+Open link provided to view it in the browser.
